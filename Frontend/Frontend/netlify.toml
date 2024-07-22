@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://artvista-backend-fnh0.onrender.com/:splat"
+  status = 200
+  force = true
